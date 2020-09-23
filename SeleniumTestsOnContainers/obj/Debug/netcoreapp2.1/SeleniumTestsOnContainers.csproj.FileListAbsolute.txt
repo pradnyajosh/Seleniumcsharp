@@ -1,0 +1,13 @@
+D:\Projects\K8S\SeleniumTestsOnDocker\SeleniumTestsOnDocker\SeleniumTestsOnContainers\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Projects\K8S\SeleniumTestsOnDocker\SeleniumTestsOnDocker\SeleniumTestsOnContainers\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Projects\K8S\SeleniumTestsOnDocker\SeleniumTestsOnDocker\SeleniumTestsOnContainers\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Projects\K8S\SeleniumTestsOnDocker\SeleniumTestsOnDocker\SeleniumTestsOnContainers\bin\Debug\netcoreapp2.1\SeleniumTestsOnContainers.deps.json
+D:\Projects\K8S\SeleniumTestsOnDocker\SeleniumTestsOnDocker\SeleniumTestsOnContainers\bin\Debug\netcoreapp2.1\SeleniumTestsOnContainers.runtimeconfig.json
+D:\Projects\K8S\SeleniumTestsOnDocker\SeleniumTestsOnDocker\SeleniumTestsOnContainers\bin\Debug\netcoreapp2.1\SeleniumTestsOnContainers.runtimeconfig.dev.json
+D:\Projects\K8S\SeleniumTestsOnDocker\SeleniumTestsOnDocker\SeleniumTestsOnContainers\bin\Debug\netcoreapp2.1\SeleniumTestsOnContainers.dll
+D:\Projects\K8S\SeleniumTestsOnDocker\SeleniumTestsOnDocker\SeleniumTestsOnContainers\bin\Debug\netcoreapp2.1\SeleniumTestsOnContainers.pdb
+D:\Projects\K8S\SeleniumTestsOnDocker\SeleniumTestsOnDocker\SeleniumTestsOnContainers\obj\Debug\netcoreapp2.1\SeleniumTestsOnContainers.csproj.CoreCompileInputs.cache
+D:\Projects\K8S\SeleniumTestsOnDocker\SeleniumTestsOnDocker\SeleniumTestsOnContainers\obj\Debug\netcoreapp2.1\SeleniumTestsOnContainers.AssemblyInfoInputs.cache
+D:\Projects\K8S\SeleniumTestsOnDocker\SeleniumTestsOnDocker\SeleniumTestsOnContainers\obj\Debug\netcoreapp2.1\SeleniumTestsOnContainers.AssemblyInfo.cs
+D:\Projects\K8S\SeleniumTestsOnDocker\SeleniumTestsOnDocker\SeleniumTestsOnContainers\obj\Debug\netcoreapp2.1\SeleniumTestsOnContainers.dll
+D:\Projects\K8S\SeleniumTestsOnDocker\SeleniumTestsOnDocker\SeleniumTestsOnContainers\obj\Debug\netcoreapp2.1\SeleniumTestsOnContainers.pdb
