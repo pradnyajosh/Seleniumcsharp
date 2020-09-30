@@ -1,0 +1,39 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "clusterName": {
+            "value": "pradnyaakscluster"
+        },
+        "location": {
+            "value": "East US"
+        },
+        "dnsPrefix": {
+            "value": "pradnyaakscluster"
+        },
+        "osDiskSizeGB": {
+            "value": 0
+        },
+        "agentCount": {
+            "value": 2
+        },
+        "agentVMSize": {
+            "value": "Standard_B2s"
+        },
+        "linuxAdminUsername": {
+            "value": "azureuser"
+        },
+        "sshRSAPublicKey": {
+            "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDOYydAtMR8e2ZNdhxhmulyAq4gLOLnT8tVEytTQU0h1z3zMClep55aFaOe4xH118/gkqqfP5ba8RpwdsX7IxRYowWBkFYLNuU1K+si3uLu6Eor9JkOaRKJoOz3qBlo/Gpos1TTJ7av5zb0cv32Wxbb13dnbmkLNt3qs6IwllAr8QU+1VCUkMZ42/9vPSh7f0jS1ovXdETYMKfwP9lKWl20PefEXntm1EVbzHglFTZ2/2p9qfMjSvQFrLZ8PNbqf7pppUOXJmSVvqE6dkDT5jd2DqJT1LpN9/ijHc2KsizAiKCyFn0Qxqbjdh7cSMYbhg7CZ+3A6h/0ktC+mm516+4b pradnyajosh@cc-db3d6d20-84f4499d5d-g6br4"
+        },
+        "servicePrincipalClientId": {
+            "value": null
+        },
+        "servicePrincipalClientSecret": {
+            "value": null
+        },
+        "osType": {
+            "value": "Linux"
+        }
+    }
+}
